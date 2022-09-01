@@ -20,11 +20,11 @@ MASK_LIB = '/home/yana/Documentos/U-net/2d_masks/'
 
 
 #Dados de teste
-IMAGE_TEST_LIB = '/home/yana/Documentos/U-net/2d_images_test/'
-MASK_TEST_LIB = '/home/yana/Documentos/U-net/2d_masks_test/'
+IMAGE_TEST_LIB = '/U-net/2d_images_test/'
+MASK_TEST_LIB = '/U-net/2d_masks_test/'
 
-IMG_HEIGHT, IMG_WIDTH = 32, 32 #Perguntar se é arbitrário
-SEED=42 #Perguntar se é arbitrário
+IMG_HEIGHT, IMG_WIDTH = 32, 32 
+SEED=42 
 
 
 all_images = [x for x in sorted(os.listdir(IMAGE_LIB)) if x[-4:] == '.tif']
