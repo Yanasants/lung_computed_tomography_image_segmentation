@@ -15,8 +15,8 @@ import keras.backend as K
 from keras.callbacks import LearningRateScheduler, ModelCheckpoint
 
 #Dados de treino e validação
-IMAGE_LIB = '/home/yana/Documentos/U-net/2d_images/'
-MASK_LIB = '/home/yana/Documentos/U-net/2d_masks/'
+IMAGE_LIB = '/U-net/2d_images/'
+MASK_LIB = '/U-net/2d_masks/'
 
 
 #Dados de teste
