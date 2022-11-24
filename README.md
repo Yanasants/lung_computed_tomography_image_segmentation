@@ -20,7 +20,7 @@ The dataset used is composed of 267 lungs CT scans and each volume presents a 2D
 and the background in black. 
 
 <p align="center">
-  <img width="1200" height="250" src="https://user-images.githubusercontent.com/59098432/203787200-af75ef24-82a2-42a8-bd33-305767fa51e1.png">
+  <img width="1200" height="225" src="https://user-images.githubusercontent.com/59098432/203787200-af75ef24-82a2-42a8-bd33-305767fa51e1.png">
 </p>
 
 <h2 align="center">Paper</h2>
